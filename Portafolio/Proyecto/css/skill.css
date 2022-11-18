@@ -1,0 +1,38 @@
+.skills {
+    position: absolute;
+    top: 755px;
+    background-color: #fdeaee;
+    width: 80%;
+    /* height: 300px; */
+}
+.skills__title{
+    padding-top: 5%;
+    font-size: 32px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: 'Raleway';
+    color: #464646;
+}
+.skills__line{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 5%;
+}
+.skills__box{
+    width: 150px;
+    background-color: #FFFFFF;
+}
+.skills__img{
+    /* width: 50px; */
+    text-align: center;
+    padding-top: 50px;
+}
+.skills__name{
+    text-align: center;
+    position: relative;
+    padding-bottom: 50px;
+    top:10px
+}
+.tamaño__imagen{
+    height: 50px;
+}

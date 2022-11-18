@@ -1,0 +1,25 @@
+.about{
+    position: absolute;
+    top: 450px;
+    background-color: #EAF2FD;
+}
+
+.about__container{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-family: 'Raleway';
+    color: #464646;
+
+    
+}
+
+.about__title{
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.firma{
+    margin-top: 20px;
+}
+
+

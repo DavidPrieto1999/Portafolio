@@ -1,0 +1,13 @@
+.container{
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: #F5F5F5;
+}
+
+body {
+    box-sizing: border-box;
+    font-family: 'Raleway';
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+}

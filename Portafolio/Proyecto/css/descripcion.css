@@ -1,0 +1,49 @@
+.title{
+
+    position: absolute;
+    top: 60px;
+
+
+};
+
+.title__container {
+    font-family: var(--montserrat);
+    font-size: 2rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 1.5rem;
+    
+}
+.title__bio{
+    font-size: 52px;
+    font-family: 'Raleway';
+    padding-top: 5%;
+    color: #464646;
+}
+.title__div{
+    display: flex;
+    margin-left: 0.75rem;
+}
+
+.title__network{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    padding-top: 5%;
+    font-family: 'Raleway';
+    color: #464646;
+    font-size: 16px;
+
+}
+.title__subsection{
+    padding-top: 5%;
+    font-family: 'Raleway';
+    color: #464646;
+    font-size: 22px;
+
+}
+.title__profile{
+    padding-top: 1%;
+    padding-bottom: 4%;
+    width: 368px;
+}
